@@ -33,5 +33,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "proxy" : {
+    "/api" : "http://localhost:3080/",
+    "/api2" : "http://localhost:3070/"
   }
 }
